@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AvgHighToLowComparator
+comment0.text=\r\n\ Write\ a\ description\ of\ AvgHighToLowComparator\ here.\r\n\ used\ to\ sort\ rating\ averages\ from\ high\ to\ low\r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=r1\ r2
+comment1.target=int\ compare(Rating,\ Rating)
+numComments=2
