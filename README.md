@@ -1,7 +1,7 @@
 # Movie-Recommendation-System
-Allows user to rate movies then recommends movies based on the user ratings. 
 
-Basic Overview: 
+
+## Introduction: 
 
 This code can be tested at the following URL:
 https://www.dukelearntoprogram.com//capstone/recommender.php?id=JanptVoKl9Qb5w
@@ -10,7 +10,12 @@ The above website will prompt the user to rate a set of movies. Each time the we
 
 The contents of this project only include the back-end code for the recommendation system. Duke University hosts the front-end for this code. 
 
-Technical Overview:
+## Requirements:
+
+- None, since this project uses Duke University's front end to launch the application.
+- Future versions of this project may require 
+
+## Technical Overview:
 
 When the website is launched, the ‘getItemstoRate()’ method from the ‘RecommendationRunner’ class.
 First a MovieDatebase object is initialized using a CSV file of movies which includes movieID, publish year, genre, title, poster (image url link), duration in minutes, country, and director. 
@@ -27,7 +32,7 @@ Allow user input to control the number of recommendations.
 Use an online database of ratings instead of a static CSV file (ex. Netflix) 
 Develop different similarity score algorithms 
 
-Main Classes:
+## Main Classes:
 
 Movie
 Class used to store information regarding a single movie. 
