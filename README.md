@@ -13,7 +13,16 @@ The contents of this project only include the back-end code for the recommendati
 ## Requirements:
 
 - None, since this project uses Duke University's front end to launch the application.
-- Future versions of this project will have requirements once front end is created. 
+- Future versions of this project will have requirements once front end is created.
+
+### Executing the Program
+1. Open URL: https://www.dukelearntoprogram.com//capstone/recommender.php?id=JanptVoKl9Qb5w
+2. Rate the randomly generated movies and click 'Submit Ratings'
+   ![image](https://github.com/MaayonThayaparan/Movie-Recommendation-System/assets/43158629/2ca474ff-e82a-4457-9cc2-ccb6255348a9)
+3. View the recommended movies based on your ratings in respect to other user ratings
+   ![image](https://github.com/MaayonThayaparan/Movie-Recommendation-System/assets/43158629/84046f2a-41b1-4c5b-b533-a74056343745)
+
+
 
 ## Technical Overview:
 
